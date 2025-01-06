@@ -1,2 +1,2 @@
 websockets==11.0.3  # Replace with the version of websockets you use
-gunicorn==21.3.0    # Ensure compatibility with your deployment environment
+gunicorn==23.0.0   # Ensure compatibility with your deployment environment
